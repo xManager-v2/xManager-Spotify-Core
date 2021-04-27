@@ -1,0 +1,58 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+$base-ff:         'VT323';
+$base-fs:          17px;
+$base-fw:          300;
+$small-fs:         $base-fs * 0.875;
+$base-lh:          1.5;
+
+$spacing-unit:     30px;
+
+
+$h-color:          #28e36a;
+// Try below colors!
+/* $h-color:       #07da21;
+$h-color:          #9315c5;
+$h-color:          #b92050; */
+
+$text-color:       #777;
+$background-color: #fdfdfd;
+$brand-color:      #60c17d;
+
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "style",
+        "syntax-highlighting"
+;
