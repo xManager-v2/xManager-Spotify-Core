@@ -1,0 +1,58 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>xManager</title>
+  <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+     <style>
+      #cursor{
+          font-size: 15px;
+          font-weight: 200;
+          color: #28e36a;
+          box-sizing: border-box;
+          -webkit-box-sizing: border-box;
+          border-left: .5em solid;
+          -webkit-animation: typing 12s infinite;
+          animation: typing 12s infinite;
+      }
+    </style>
+</head>
+
+<body>
+<header>
+    <nav>
+        <ul>
+            <li><a href="{{site.baseurl}}/changelog">Changelog</a></li>
+            <li><a href="https://github.com/xManager-v2/xManager-Spotify">GitHub</a></li>
+            <li><a href="https://t.me/SpotifyModSupport">Support</a></li>
+        </ul>
+    </nav>
+</header>
+      
+  
+  {{ content }}
+
+
+<footer>
+    <p style="font-size:15px; color:#28e36a;">&copy; {{site.time | date: '%Y'}} {{site.title}}<span id="cursor"></span></p>
+    <script>
+        var cursor = true;
+        var speed = 400;
+        setInterval(() => {
+          if(cursor) {
+            document.getElementById('cursor').style.opacity = 0;
+            cursor = false;
+          }else {
+            document.getElementById('cursor').style.opacity = 1;
+            cursor = true;
+          }
+        }, speed);
+    </script>
+</footer>
+</body>
+</html>
