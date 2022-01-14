@@ -16,16 +16,12 @@ xManager v2.6-1 (hotfix)
 •Improved Manager's Stability  
 •Minor Changes for Russian and Ukrainian Language  
 
-Spotify v8.6.80.1014
+Spotify v8.6.94.306
 --------------------  
-•Added Discover Tab  
-•Added Concert Tab  
-•Added Playlist Shuffle  
-•Added Podcast QnA (available w/ select podcasts)  
-•Added Podcast Polls (available w/ select podcasts)  
-•Added Podcast Transcript (available w/ select podcasts)  
-•Added Podcast Ratings and Review  
-•Added Podcast More For You  
-•Added Share Podcast Time Stamp  
-•Added Future A/B Features   
-•Removed Social Listening BETA  
+•Added Micdrop (Vocal Removal v2)  
+•Added Podcast Auto-Download  
+•Added Podcast Manage Download Settings  
+•Added Video Quality Settings  
+•Temporarily Removed Enhanced Feature  
+•Removed Server-Sided and Non-Working Features  
+•Various Bugs Fixed  
