@@ -4,17 +4,23 @@ title: Changelog
 ---
 
 
-xManager v2.6-1 (hotfix)
+xManager v2.7
 --------------------
-•Added Dutch Translation - Thanks Kevin!  
-•Updated Translations for Turkish, Polish, Romanian, Korean and Spanish - Thanks to the respective translators!  
-•Added New Themes - White, Brown and Indigo  
-•Some Text and UI Changes  
-•Permanently Fixed Text Overwrap (Main Page and Settings)  
-•Permanently Fixed UI Allignments  
-•Fixed UI for Lower DPI Devices  
-•Improved Manager's Stability  
-•Minor Changes for Russian and Ukrainian Language  
+•Added Reddit (WIP)  
+•Added FAQ  
+•Added In-App Browser  
+•Updated Download Dialog Format (from NaN% to 0% and KB to MB - Actual File Size)  
+•Updated Some Major Codes and Components  
+•Improved Manager Update Dialog  
+•Improved Try Catch Mechanism  
+•Changed Data List and Patch Changelogs Transition Speed  
+•Rewrote and Reformatted Old Codes  
+•Removed Unnecessary Permissions  
+•Removed and Cut Unnecessary Codes  
+•Simplified Data List Dialog (with Patched Information)  
+•Lessen Database Fetches (Declutter DB Call Outs)  
+•Some UI Changes  
+•Various Bugs Fixed  
 
 Spotify v8.6.94.306
 --------------------  
