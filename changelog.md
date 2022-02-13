@@ -22,12 +22,11 @@ xManager v2.7
 •Some UI Changes  
 •Various Bugs Fixed  
 
-Spotify v8.6.94.306
+Spotify v8.7.4.1056
 --------------------  
-•Added Micdrop (Vocal Removal v2)  
-•Added Podcast Auto-Download  
-•Added Podcast Manage Download Settings  
-•Added Video Quality Settings  
-•Temporarily Removed Enhanced Feature  
-•Removed Server-Sided and Non-Working Features  
-•Various Bugs Fixed  
+•Re-added Enhance Playlist Feature  
+•Re-added Stock Now Playing Bar  
+•Re-added Stock Podcast NPB  
+•Added Anchors (Only works for tracks with Lyrics and Storylines)  
+•Add to Queue Bug Fixed  
+•Various Internal Bug Fixed  
