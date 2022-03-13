@@ -4,29 +4,26 @@ title: Changelog
 ---
 
 
-xManager v2.7
+xManager v2.9
 --------------------
-•Added Reddit (WIP)  
-•Added FAQ  
-•Added In-App Browser  
-•Updated Download Dialog Format (from NaN% to 0% and KB to MB - Actual File Size)  
-•Updated Some Major Codes and Components  
-•Improved Manager Update Dialog  
-•Improved Try Catch Mechanism  
-•Changed Data List and Patch Changelogs Transition Speed  
-•Rewrote and Reformatted Old Codes  
-•Removed Unnecessary Permissions  
-•Removed and Cut Unnecessary Codes  
-•Simplified Data List Dialog (with Patched Information)  
-•Lessen Database Fetches (Declutter DB Call Outs)  
-•Some UI Changes  
-•Various Bugs Fixed  
+•Upgraded Target SDK to 31 (Android 12)  
+•Added Full Support for Android 12 Devices  
+•Added MANAGE_EXTERNAL_STORAGE Permission (For Android 11 and 12)  
+•Added QUERY_ALL_PACKAGES Permission (For Android 11 and 12)  
+•Updated Credits (Added Donators/Supporters)  
+•Updated English Default Translation (Some Minor Changes)  
+•Updated Vietnamese Translation (Thanks minhtamvn!)  
+•Updated Simplified Chinese Translation (Thanks Softland99!)  
+•Updated Slovenian Translations (Thanks Myst1cX!)  
+•Adjusted Social Links Text Sizes  
+•Muted Rewarded Video Ads  
+•Bypass All Types of Ad-Blockers for Rewarded Ads  
+•Fixed All Related Issues with Rewarded Ads  
+•Minor Bugs Fixed and Improvements  
 
-Spotify v8.7.4.1056
+Spotify v8.7.10.1262
 --------------------  
-•Re-added Enhance Playlist Feature  
-•Re-added Stock Now Playing Bar  
-•Re-added Stock Podcast NPB  
-•Added Anchors (Only works for tracks with Lyrics and Storylines)  
-•Add to Queue Bug Fixed  
-•Various Internal Bug Fixed  
+•Added Swipe to Add Queue (Playlist Only)  
+•Micdrop Reworked  
+•Android 6 Rollback  
+•Assorted Bug Fixed from Previous Build  
