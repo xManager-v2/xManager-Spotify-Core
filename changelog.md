@@ -17,9 +17,13 @@ xManager v3.3
 •Fixed and Updated File Checkers  
 •Fixed Incorrect Text, Sizes and Formats  
 
-Spotify v8.7.10.1262
---------------------  
-•Added Swipe to Add Queue (Playlist Only)  
-•Micdrop Reworked  
-•Android 6 Rollback  
-•Assorted Bug Fixed from Previous Build  
+Spotify v8.7.20.1261
+--------------------
+•Added Quick Settings Feature  
+•Added Artist NFT Section  
+•New Lyrics UI (with Sing/Micdrop Feature)  
+•New Track Sharing UI (Version 2)  
+•Updated Ad Blockers  
+•Removed Artist Separate Shuffle (Server-Sided)  
+•Removed Subscription Checks (Faster Load Times)  
+•Bug Fixes from Previous Build  
