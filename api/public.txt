@@ -1,0 +1,68 @@
+[{
+	"Regular_Latest": "8.7.20.1261",
+	"Amoled_Latest": "8.7.20.1261",
+	"RC_Latest": "8.7.20.1261",
+	"ABC_Latest": "8.7.20.1261",
+	"Mod_Changelogs": "Spotify v8.7.20.1261 [NEW RELEASE]\n\n\u2022Added Quick Settings Feature\\n\u2022Added Artist NFT Section\\n\u2022New Lyrics UI (with Sing\/Micdrop Feature)\\n\u2022New Track Sharing UI (Version 2)\\n\u2022Updated Ad Blockers\\n\u2022Removed Artist Separate Shuffle (Server-Sided)\\n\u2022Removed Subscription Checks (Faster Load Times)\\n\u2022Bug Fixes from Previous Build\\n\\n--------------------\\n\\nSpotify 8.7.10.1262 [OLD RELEASE]\\n\\nNOTE: Due to signature change, you will need to uninstall any previous mod version in order to update to 8.7.10.1262.\\n\\n\u2022Added Swipe to Add Queue (Playlist Only)\\n\u2022Micdrop Reworked\\n\u2022Android 6 Rollback\\n\u2022Assorted Bug Fixed from Previous Build\\n\\n--------------------\\n\\nSPOTIFY 8.7.4.1056 [OLD RELEASE]\\n\\n\u2022Re-added Enhance Playlist Feature\\n\u2022Re-added Stock Now Playing Bar\\n\u2022Re-added Stock Podcast NPB\\n\u2022Added Anchors (Only works for tracks with Lyrics and Storylines)\\n\u2022Add to Queue Bug Fixed\\n\u2022Various Internal Bug Fixed\\n\\n--------------------\\n\\nSPOTIFY 8.6.94.306 [OLD RELEASE]\\n\\n\u2022Added Micdrop (Vocal Removal v2)\\n\u2022Added Podcast Auto-Download\\n\u2022Added Podcast Manage Download Settings\\n\u2022Added Video Quality Settings\\n\u2022Temporarily Removed Enhanced Feature\\n\u2022Removed Server-Sided and Non-Working Features\\n\u2022Various Bugs Fixed\\n\\n--------------------\\n\\nSPOTIFY 8.6.80.1014 [OLD RELEASE]\\n\\n\u2022Added Discover Tab\\n\u2022Added Concert Tab\\n\u2022Added Playlist Shuffle\\n\u2022Added Podcast QnA\\n\u2022Added Podcast Polls\\n\u2022Added Podcast Transcript\\n\u2022Added Podcast Ratings and Review\\n\u2022Added Podcast More For You\\n\u2022Added Share Podcast Time Stamp\\n\u2022Added Future A\/B Features\\n\u2022Removed Social Listening BETA\\n\\n--------------------\\n\\nSPOTIFY 8.6.48.796 [OLD RELEASE]\\n\\n\u2022Added: Dynamic Playlist\\n\u2022Added: Hey Spotify\\n\u2022Fixed: Podcast ad roll crash\\n\\n--------------------\\n\\nSPOTIFY 8.6.32.925 [OLD RELEASE]\\n\\n\u2022Fixed: Shuffle\/Preview only bug\\n\u2022Fixed: Various Bugs\\n\u2022Added: Quick Share button in Player\\n\\n--------------------\\n\\nSPOTIFY 8.6.26.897 [OLD RELEASE]\\n\\n\u2022Added \\\"What's New\\\" (Replaced Follow Feed)\\n\u2022Removed \\\"Follow Feed\\\" (Depreciated)\\n\u2022Removed Spotify Inbox\\n\u2022Various Bugs Fixed\\n\\n--------------------\\n\\nSPOTIFY 8.6.12.986 [OLD RELEASE]\\n\\n\u2022Added New 'Your Library' UI (BETA - Might be buggy for some devices)\\n\u2022Added Search Filters (New Feature)\\n\u2022Added Recently Played (New Feature)\\n\u2022Added Spotify Inbox (New Feature)\\n\u2022Added Green Theme Buttons\\n\u2022Improved Visual Ads Removal\\n\u2022Improved Premium Toast Removal\\n\u2022Improved Premium Snackbar Removal\\n\u2022Removed Various Cosmetic Features (Loudness Control, Very High, etc.)\\n\\n--------------------\\n\\nSPOTIFY 8.6.0.830 [OLD RELEASE]\\n\\n\u2022Minor Bugs Fixed\\n\\n--------------------\\n\\nSPOTIFY 8.5.94.839 [OLD RELEASE]\\n\\n\u2022Various Bugs Fixed",
+	"App_Changelogs": "\u2022Updated English Translation (Thanks Dyras!)\\n\u2022Updated Alert Dialog UI with Minor Fixes\\n\u2022Updated Progress Dialog UI with Minor Fixes\\n\u2022Updated Animations and Transitions\\n\u2022Updated Rewarded Ads\\n\u2022Updated Discord Link\\n\u2022Updated About\\n\u2022Updated FAQ (Image Format)\\n\u2022Fixed and Updated File Checkers\\n\u2022Fixed Incorrect Text, Sizes and Formats",
+	"Supporters": "Ricardo G.\nAakarshit U.\nAmaricai A.\nAntonio M.\nJuleshwar Babu T.M.\nYash G.\nCamille D.\nAnudeep N.D.\nKrzysztof S.\nAlex C.\nCarlos C.\nPrabandaru P.\nRussel R.\nLucha G.S.\nAleksandrs F.\nGeorgios H.\nLevente T.\nFahim Fahim | Z.\nQuiet\nMika\u00ebl V.",
+	"Rewarded_Ads": "ca-app-pub-3319548483346434/5639572396",
+	"Update": "https://github.com/xManager-v2/xManager-Spotify/releases/latest/download/xManager.apk",
+	"Version": "3.4"
+}, {
+	"Regular": "[OLDER] 8.6.98.900 (ARM64-V8A)",
+	"Amoled": "[OLDER] 8.6.98.900 (ARM64-V8A)",
+	"Regular_Link": "",
+	"Amoled_Link": ""
+}, {
+	"Regular": "[OLDER] 8.6.98.900 (ARMEABI-V7A)",
+	"Amoled": "[OLDER] 8.6.98.900 (ARMEABI-V7A)",
+	"Regular_Link": "",
+	"Amoled_Link": ""
+}, {
+	"Regular": "[OLDER] 8.7.04.1056 (ARM64-V8A)",
+	"Amoled": "[OLDER] 8.7.04.1056 (ARM64-V8A)",
+	"Regular_Link": "",
+	"Amoled_Link": ""
+}, {
+	"Regular": "[OLDER] 8.7.04.1056 (ARMEABI-V7A)",
+	"Amoled": "[OLDER] 8.7.04.1056 (ARMEABI-V7A)",
+	"Regular_Link": "",
+	"Amoled_Link": ""
+}, {
+	"Regular": "[OLDER] 8.7.10.1262 (ARM64-V8A)",
+	"Amoled": "[OLDER] 8.7.10.1262 (ARM64-V8A)",
+	"Regular_Cloned": "[OLDER] 8.7.10.1262 (ARM64-V8A)",
+	"Amoled_Cloned": "[OLDER] 8.7.10.1262 (ARM64-V8A)",
+	"Regular_Link": "",
+	"Amoled_Link": "",
+	"Regular_Cloned_Link": "",
+	"Amoled_Cloned_Link": ""
+}, {
+	"Regular": "[OLDER] 8.7.10.1262 (ARMEABI-V7A)",
+	"Amoled": "[OLDER] 8.7.10.1262 (ARMEABI-V7A)",
+	"Regular_Cloned": "[OLDER] 8.7.10.1262 (ARMEABI-V7A)",
+	"Amoled_Cloned": "[OLDER] 8.7.10.1262 (ARMEABI-V7A)",
+	"Regular_Link": "",
+	"Amoled_Link": "",
+	"Regular_Cloned_Link": "",
+	"Amoled_Cloned_Link": ""
+}, {
+	"Regular": "[LATEST] 8.7.20.1261 (ARM64-V8A)",
+	"Amoled": "[LATEST] 8.7.20.1261 (ARM64-V8A)",
+	"Regular_Cloned": "[LATEST] 8.7.20.1261 (ARM64-V8A)",
+	"Amoled_Cloned": "[LATEST] 8.7.20.1261 (ARM64-V8A)",
+	"Regular_Link": "",
+	"Amoled_Link": "",
+	"Regular_Cloned_Link": "",
+	"Amoled_Cloned_Link": ""
+}, {
+	"Regular": "[LATEST] 8.7.20.1261 (ARMEABI-V7A)",
+	"Amoled": "[LATEST] 8.7.20.1261 (ARMEABI-V7A)",
+	"Regular_Cloned": "[LATEST] 8.7.20.1261 (ARMEABI-V7A)",
+	"Amoled_Cloned": "[LATEST] 8.7.20.1261 (ARMEABI-V7A)",
+	"Regular_Link": "",
+	"Amoled_Link": "",
+	"Regular_Cloned_Link": "",
+	"Amoled_Cloned_Link": ""
+}]
