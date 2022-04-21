@@ -1,4 +1,4 @@
-[{
+{
 	"Regular_Latest": "8.7.20.1261",
 	"Amoled_Latest": "8.7.20.1261",
 	"RC_Latest": "8.7.20.1261",
@@ -27,4 +27,4 @@
 		"Title": "[LATEST] 8.7.20.1261 (ARMEABI-V7A)",
 		"Link": ""
 	}]
-}]
+}
