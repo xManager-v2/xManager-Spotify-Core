@@ -2,7 +2,9 @@
 layout: page
 title: xManager (Spotify) FAQ
 ---
-
+<p align="center">
+<img width="1000" src="https://i.ibb.co/x7PHGbm/x-Manager-TBanner.gif">
+</p>
 This FAQ is based on the original work by @**farish278**. Many thanks to them!
 
 This FAQ assumes you're using **xManager (Spotify)** v3.2+ and v8.6+ mod.
