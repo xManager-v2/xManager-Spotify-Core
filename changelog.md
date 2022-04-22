@@ -3,7 +3,7 @@ layout: page
 title: Changelog
 ---
 <p align="center">
-<img width="1000" src="https://i.ibb.co/x7PHGbm/x-Manager-TBanner.gif">
+<img width="1000" src="https://i.ibb.co/qn01cnP/x-Manager-Banner-Animated.gif">
 </p>
 
 xManager v3.3
