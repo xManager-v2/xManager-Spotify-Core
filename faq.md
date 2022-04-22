@@ -1,11 +1,8 @@
 ---
 layout: page
-title: FAQ
+title: xManager (Spotify) FAQ
 ---
 
-
-xManager (Spotify) FAQ
---------------------
 This FAQ is based on the original work by @**farish278**. Many thanks to them!
 
 This FAQ assumes you're using **xManager (Spotify)** v3.2+ and v8.6+ mod.
