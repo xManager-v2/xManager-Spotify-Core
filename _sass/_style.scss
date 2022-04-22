@@ -107,7 +107,7 @@ nav {
         margin-top: 0;
         li {
             display: inline-block;
-            margin-left: 0;
+            margin-left: 1em;
             &:before {
                 content: '| ';
                 color: $h-color;
