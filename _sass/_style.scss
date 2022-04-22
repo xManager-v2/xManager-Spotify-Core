@@ -109,7 +109,7 @@ nav {
             display: inline-block;
             margin-left: 0.5em;
             &:before {
-                content: '';
+                content: '| ';
                 color: $h-color;
             }
         }
