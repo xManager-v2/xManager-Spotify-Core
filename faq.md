@@ -3,7 +3,7 @@ layout: page
 title: xManager (Spotify) FAQ
 ---
 <p align="center">
-<img width="1000" src="https://i.ibb.co/x7PHGbm/x-Manager-TBanner.gif">
+<img width="1000" src="https://i.ibb.co/qn01cnP/x-Manager-Banner-Animated.gif">
 </p>
 This FAQ is based on the original work by @**farish278**. Many thanks to them!
 
