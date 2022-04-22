@@ -7,7 +7,7 @@
 	"Supporters": "Ricardo G.\nAakarshit U.\nAmaricai A.\nAntonio M.\nJuleshwar Babu T.M.\nYash G.\nCamille D.\nAnudeep N.D.\nKrzysztof S.\nAlex C.\nCarlos C.\nPrabandaru P.\nRussel R.\nLucha G.S.\nAleksandrs F.\nGeorgios H.\nLevente T.\nFahim Fahim | Z.\nQuiet\nMika\u00ebl V.",
 	"Rewarded_Ads": "ca-app-pub-3319548483346434/5639572396",
 	"Update": "https://github.com/xManager-v2/xManager-Spotify/releases/latest/download/xManager.apk",
-	"Server": "3.2",
+	"Server": "3.4",
 	"Local": "3.3",
 	"Regular": [{
 		"Title": "[OLDER] 8.6.98.900 (ARM64-V8A)",
