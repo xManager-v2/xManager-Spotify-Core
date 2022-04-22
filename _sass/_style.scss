@@ -108,7 +108,7 @@ nav {
         li {
             display: inline-block;
             &:before {
-                content: '| ';
+                content: ' | ';
                 color: $h-color;
             }
         }
