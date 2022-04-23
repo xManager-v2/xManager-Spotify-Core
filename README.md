@@ -1,1 +1,1 @@
-# xManager-v2.github.io
+# xManager (Spotify) Core
