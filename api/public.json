@@ -17,10 +17,10 @@
 		"Link": "https://bit.ly/3kaRwp6"
 	}, {
 		"Title": "8.7.04.1056 (ARM64-V8A)",
-		"Link": "https://bit.ly/3rLKdZr"
+		"Link": "https://bit.ly/3MtBin8"
 	}, {
 		"Title": "8.7.04.1056 (ARMEABI-V7A)",
-		"Link": "https://bit.ly/3v8h8JA"
+		"Link": "https://bit.ly/3v5QUaO"
 	}, {
 		"Title": "8.7.10.1262 (ARM64-V8A)",
 		"Link": "https://bit.ly/3EJkgPC"
@@ -36,10 +36,10 @@
 	}],
 	"Amoled": [{
 		"Title": "8.7.04.1056 (ARM64-V8A)",
-		"Link": "https://bit.ly/3KbvJrY"
+		"Link": "https://bit.ly/3KbX7Gi"
 	}, {
 		"Title": "8.7.04.1056 (ARMEABI-V7A)",
-		"Link": "https://bit.ly/3LbD4cy"
+		"Link": "https://bit.ly/38dZewa"
 	}, {
 		"Title": "8.7.10.1262 (ARM64-V8A)",
 		"Link": "https://bit.ly/3EHNwGd"
@@ -55,10 +55,10 @@
 	}],
 	"Regular_Cloned": [{
 		"Title": "8.7.04.1056 (ARM64-V8A)",
-		"Link": "https://bit.ly/3v7F3J7"
+		"Link": "https://bit.ly/391Yxq2"
 	}, {
 		"Title": "8.7.04.1056 (ARMEABI-V7A)",
-		"Link": "https://bit.ly/3v7qVQa"
+		"Link": "https://bit.ly/3k8NjlS"
 	}, {
 		"Title": "8.7.10.1262 (ARM64-V8A)",
 		"Link": "https://bit.ly/3rQ5j8X"
@@ -74,10 +74,10 @@
 	}],
 	"Amoled_Cloned": [{
 		"Title": "8.7.04.1056 (ARM64-V8A)",
-		"Link": "https://bit.ly/3xOQd7m"
+		"Link": "https://bit.ly/3xKUby5"
 	}, {
 		"Title": "8.7.04.1056 (ARMEABI-V7A)",
-		"Link": "https://bit.ly/3MmIXDW"
+		"Link": "https://bit.ly/3EEzzZy"
 	}, {
 		"Title": "8.7.10.1262 (ARM64-V8A)",
 		"Link": "https://bit.ly/3EDGp1H"
@@ -92,6 +92,6 @@
 		"Link": "https://bit.ly/3y4KCu7"
 	}],
 	"Mod_Changelogs": [{
-		"Mod_Changelogs": "Spotify v8.7.20.1261 [NEW RELEASE]\n\n•Added Quick Settings Feature\n•Added Artist NFT Section\n•New Lyrics UI (with Sing\/Micdrop Feature)\n•New Track Sharing UI (Version 2)\n•Updated Ad Blockers\n•Removed Artist Separate Shuffle (Server-Sided)\n•Removed Subscription Checks (Faster Load Times)\n•Bug Fixes from Previous Build\n\n--------------------\n\nSpotify 8.7.10.1262 [OLD RELEASE]\n\nNOTE: Due to signature change, you will need to uninstall any previous mod version in order to update to 8.7.10.1262.\n\n•Added Swipe to Add Queue (Playlist Only)\n•Micdrop Reworked\n•Android 6 Rollback\n•Assorted Bug Fixed from Previous Build\n\n--------------------\n\nSPOTIFY 8.7.4.1056 [OLD RELEASE]\n\n•Re-added Enhance Playlist Feature\n•Re-added Stock Now Playing Bar\n•Re-added Stock Podcast NPB\n•Added Anchors (Only works for tracks with Lyrics and Storylines)\n•Add to Queue Bug Fixed\n•Various Internal Bug Fixed"
+		"Mod_Changelogs": "Spotify v8.7.20.1261 [NEW RELEASE]\n\n•Added Quick Settings Feature\n•Added Artist NFT Section\n•New Lyrics UI (with Sing\/Micdrop Feature)\n•New Track Sharing UI (Version 2)\n•Updated Ad Blockers\n•Removed Artist Separate Shuffle (Server-Sided)\n•Removed Subscription Checks (Faster Load Times)\n•Bug Fixes from Previous Build\n\nSpotify 8.7.10.1262 [OLD RELEASE]\n\nNOTE: Due to signature change, you will need to uninstall any previous mod version in order to update to 8.7.10.1262.\n\n•Added Swipe to Add Queue (Playlist Only)\n•Micdrop Reworked\n•Android 6 Rollback\n•Assorted Bug Fixed from Previous Build\n\nSPOTIFY 8.7.4.1056 [OLD RELEASE]\n\n•Re-added Enhance Playlist Feature\n•Re-added Stock Now Playing Bar\n•Re-added Stock Podcast NPB\n•Added Anchors (Only works for tracks with Lyrics and Storylines)\n•Add to Queue Bug Fixed\n•Various Internal Bug Fixed"
 	}]
 }
