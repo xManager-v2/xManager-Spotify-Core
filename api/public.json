@@ -4,7 +4,7 @@
     "RC_Latest": "8.7.20.1261",
     "ABC_Latest": "8.7.20.1261",
     "App_Changelogs": "•Updated Firebase API to Public API\n•Updated File Hosting\n•Updated French Translation (Thanks Luxchar!)\n•Updated Italian Translation (Thanks albertopasqualetto!)\n•Updated List Views (For Regular, Amoled and Changelogs)\n•Updated List Views Text Format (For Regular, Amoled and Changelogs)\n•Updated About (Supporters section should now sync real-time)\n•Updated Website (Redesign UI with our official domain)\n•Updated FAQ (Base on the redesign website)\n•Reworked and Rebuild Deprecated Codes\n•Removed Firebase SDK (Due to API changes)\n•Fixed API Callbacks (Unable to load properly)\n•Fixed File Hostings (Unable to download properly)\n•Fixed Cloned Downgrades (Unable to show the dialog)\n•Some Exceptions Fixed\n•Some Known Bugs Fixed",
-    "Supporters": "Ricardo G.\nAakarshit U.\nAmaricai A.\nAntonio M.\nJuleshwar Babu T.M.\nYash G.\nCamille D.\nAnudeep N.D.\nKrzysztof S.\nAlex C.\nCarlos C.\nPrabandaru P.\nRussel R.\nLucha G.S.\nAleksandrs F.\nGeorgios H.\nLevente T.\nFahim Fahim | Z.\nQuiet\nMikaël V.",
+    "Supporters": "Ricardo G.\nAakarshit U.\nAmaricai A.\nAntonio M.\nJuleshwar Babu T.M.\nYash G.\nCamille D.\nAnudeep N.D.\nKrzysztof S.\nAlex C.\nCarlos C.\nPrabandaru P.\nRussel R.\nLucha G.S.\nAleksandrs F.\nGeorgios H.\nLevente T.\nFahim Fahim | Z.\nQuiet\nMikaël V.\nShem W.",
     "Rewarded_Ads": "ca-app-pub-3319548483346434/5639572396",
     "Update": "https://github.com/xManager-v2/xManager-Spotify/releases/latest/download/xManager.apk",
     "Server": "3.4",
