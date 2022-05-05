@@ -6,24 +6,15 @@ title: Changelog
 <img width="1000" src="https://i.ibb.co/qn01cnP/x-Manager-Banner-Animated.gif">
 </p>
 
-xManager v3.4
+xManager v3.5
 --------------------
-•Updated Firebase API to Public API  
-•Updated File Hosting  
-•Updated French Translation (Thanks Luxchar!)  
-•Updated Italian Translation (Thanks albertopasqualetto!)  
-•Updated List Views (For Regular, Amoled and Changelogs)  
-•Updated List Views Text Format (For Regular, Amoled and Changelogs)  
-•Updated About (Supporters section should now sync real-time)  
-•Updated Website (Redesign UI with our official domain)  
-•Updated FAQ (Base on the redesign website)  
-•Reworked and Rebuild Deprecated Codes  
-•Removed Firebase SDK (Due to API changes)  
-•Fixed API Callbacks (Unable to load properly)  
-•Fixed File Hostings (Unable to download properly)  
-•Fixed Cloned Downgrades (Unable to show the dialog)  
-•Some Exceptions Fixed  
-•Some Known Bugs Fixed  
+•Updated Dialog UI  
+•Updated Switch UI  
+•Updated Animations  
+•Removed and Simplified Copy URL Mode  
+•Removed Hide Navigation (Deprecated)  
+•Fixed API Token Expired (Causes Splash Loop)  
+•Minor Bugs Fixed and Stability Improvements  
 
 Spotify v8.7.20.1261
 --------------------
