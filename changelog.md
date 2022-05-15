@@ -16,13 +16,10 @@ xManager v3.5
 •Fixed API Token Expired (Causes Splash Loop)  
 •Minor Bugs Fixed and Stability Improvements  
 
-Spotify v8.7.20.1261
+Spotify v8.7.30.1221
 --------------------
-•Added Quick Settings Feature  
-•Added Artist NFT Section  
-•New Lyrics UI (with Sing/Micdrop Feature)  
-•New Track Sharing UI (Version 2)  
-•Updated Ad Blockers  
-•Removed Artist Separate Shuffle (Server-Sided)  
-•Removed Subscription Checks (Faster Load Times)  
-•Bug Fixes from Previous Build  
+•Forced Disabled New Playing Feature (Ugly A/B UI)  
+•Some New A/B Features Added  
+•Artist Page's Separate Shuffle Readded  
+•Some Older A/B Features Went Missing/Removed  
+•Some Fixes and Tweakings from the Previous Mod Build  
