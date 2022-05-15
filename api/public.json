@@ -128,7 +128,10 @@
             "Mod_Changelogs": "SPOTIFY 8.7.10.1262 [OLD RELEASE]\n\n•Added Swipe to Add Queue (Playlist Only)\n•Micdrop Reworked\n•Android 6 Rollback\n•Assorted Bug Fixed from Previous Build"
         },
         {
-            "Mod_Changelogs": "SPOTIFY 8.7.20.1261 [NEW RELEASE]\n\n•Added Quick Settings Feature\n•Added Artist NFT Section\n•New Lyrics UI (with Sing/Micdrop Feature)\n•New Track Sharing UI (Version 2)\n•Updated Ad Blockers\n•Removed Artist Separate Shuffle (Server-Sided)\n•Removed Subscription Checks (Faster Load Times)\n•Bug Fixes from Previous Build"
+            "Mod_Changelogs": "SPOTIFY 8.7.20.1261 [OLD RELEASE]\n\n•Added Quick Settings Feature\n•Added Artist NFT Section\n•New Lyrics UI (with Sing/Micdrop Feature)\n•New Track Sharing UI (Version 2)\n•Updated Ad Blockers\n•Removed Artist Separate Shuffle (Server-Sided)\n•Removed Subscription Checks (Faster Load Times)\n•Bug Fixes from Previous Build"
+        },
+        {
+            "Mod_Changelogs": "SPOTIFY 8.7.30.1221 [NEW RELEASE]\n\n•Forced Disabled New Playing Feature (Ugly A/B UI)\n•Some New A/B Features Added\n•Artist Page's Separate Shuffle Readded\n•Some Older A/B Features Went Missing/Removed\n•Some Fixes and Tweakings from the Previous Mod Build"
         }
     ]
 }
