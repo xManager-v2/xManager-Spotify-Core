@@ -8,9 +8,16 @@ title: Changelog
 
 xManager v3.6
 --------------------
-•Implemented Adaptive Icon  
+**HOT FIXED (v3.6-1)**  
+
+•Implemented Legacy and Adaptive Icon Properly  
+•Minimum SDK Reverted to 21 (Android 5.0)  
+•Readded Support for SDK 21 (Android 5.0) and Above  
+
+**BASED VERSION (v3.6)**  
+•~~Implemented Adaptive Icon~~  
 •Implemented Cloud Notification  
-•Minimum SDK Changed to 26 (Android 8.0) [For Adaptive Icon]  
+•~~Minimum SDK Changed to 26 (Android 8.0) [For Adaptive Icon]~~  
 •Improved Android 12 Compatibility  
 •Added Slovak Translation (Thanks KaldonM!)  
 •Some Old Codes Revised  
