@@ -26,10 +26,8 @@ xManager v3.6
 •Some Text Fixed  
 •Various Bugs Fixed  
 
-Spotify v8.7.30.1221
+Spotify v8.7.36.923
 --------------------
-•Forced Disabled New Playing Feature (Ugly A/B UI)  
-•Some New A/B Features Added  
-•Artist Page's Separate Shuffle Readded  
-•Some Older A/B Features Went Missing/Removed  
-•Some Fixes and Tweakings from the Previous Mod Build  
+•Added Spotify Enhance Playlists Feature  
+•Fixed Slow Album Load Time  
+•Some Bugs Fixed and Minor Improvements  
