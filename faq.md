@@ -83,7 +83,7 @@ Now the feature is entirely restricted and exclusive for Premium users.
 Why isn't Spotify Mod working with Android Auto?
 --------------------
 Spotify mod works with Android Auto. If Spotify is not showing up in Android Auto:  
-• Enable "Unknown Sources" in the Android Auto developer settings (https://support.google.com/androidauto/thread/9008705/psa-how-to-enable-developer-mode-in-the-updated-android-auto-app).  
+• Enable "Unknown Sources" in the Android Auto developer settings: [https://support.google.com/androidauto/thread/9008705/psa-how-to-enable-developer-mode-in-the-updated-android-auto-app](https://support.google.com/androidauto/thread/9008705/psa-how-to-enable-developer-mode-in-the-updated-android-auto-app).  
 • Open the Spotify app on your phone before connecting to Android Auto.
 
 Why is Spotify saying "no internet" / "14 days"!
