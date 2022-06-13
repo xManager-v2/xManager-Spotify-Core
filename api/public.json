@@ -1,5 +1,5 @@
 {
-    "Regular_Latest": "8.7.30.1221",
+    "Regular_Latest": "8.7.36.923",
     "Amoled_Latest": "8.7.30.1221",
     "RC_Latest": "8.7.30.1221",
     "ABC_Latest": "8.7.30.1221",
@@ -48,6 +48,14 @@
         {
             "Title": "8.7.30.1221 (ARMEABI-V7A)",
             "Link": "https://bit.ly/3NX3cZD"
+        },
+        {
+            "Title": "8.7.36.923 (ARM64-V8A)",
+            "Link": "https://bit.ly/3twUcm8"
+        },
+        {
+            "Title": "8.7.36.923 (ARMEABI-V7A)",
+            "Link": "https://bit.ly/3tx3LSl"
         }
     ],
     "Amoled": [
@@ -163,7 +171,10 @@
             "Mod_Changelogs": "SPOTIFY 8.7.20.1261 [OLD RELEASE]\n\n•Added Quick Settings Feature\n•Added Artist NFT Section\n•New Lyrics UI (with Sing/Micdrop Feature)\n•New Track Sharing UI (Version 2)\n•Updated Ad Blockers\n•Removed Artist Separate Shuffle (Server-Sided)\n•Removed Subscription Checks (Faster Load Times)\n•Bug Fixes from Previous Build"
         },
         {
-            "Mod_Changelogs": "SPOTIFY 8.7.30.1221 [NEW RELEASE]\n\n•Forced Disabled New Playing Feature (Ugly A/B UI)\n•Some New A/B Features Added\n•Artist Page's Separate Shuffle Readded\n•Some Older A/B Features Went Missing/Removed\n•Some Fixes and Tweakings from the Previous Mod Build"
+            "Mod_Changelogs": "SPOTIFY 8.7.30.1221 [OLD RELEASE]\n\n•Forced Disabled New Playing Feature (Ugly A/B UI)\n•Some New A/B Features Added\n•Artist Page's Separate Shuffle Readded\n•Some Older A/B Features Went Missing/Removed\n•Some Fixes and Tweakings from the Previous Mod Build"
+        },
+        {
+            "Mod_Changelogs": "SPOTIFY 8.7.36.923 [NEW RELEASE]\n\n•Added Spotify Enhance Playlists Feature\n•Fixed Slow Album Load Time\n•Some Bugs Fixed and Minor Improvements"
         }
     ]
 }
