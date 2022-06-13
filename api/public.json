@@ -1,6 +1,6 @@
 {
     "Regular_Latest": "8.7.36.923",
-    "Amoled_Latest": "8.7.30.1221",
+    "Amoled_Latest": "8.7.36.923",
     "RC_Latest": "8.7.30.1221",
     "ABC_Latest": "8.7.30.1221",
     "App_Changelogs": "•Implemented Adaptive Icon\n•Implemented Cloud Notification\n•Minimum SDK Changed to 26 (Android 8.0) [For Adaptive Icon]\n•Improved Android 12 Compatibility\n•Added Slovak Translation (Thanks KaldonM!)\n•Some Old Codes Revised\n•Some Animations Added\n•Some UI Fixed\n•Some Text Fixed\n•Various Bugs Fixed",
@@ -90,6 +90,14 @@
         {
             "Title": "8.7.30.1221 (ARMEABI-V7A)",
             "Link": "https://bit.ly/3zkIONS"
+        },
+        {
+            "Title": "8.7.36.923 (ARM64-V8A)",
+            "Link": "https://bit.ly/3xJtn0I"
+        },
+        {
+            "Title": "8.7.36.923 (ARMEABI-V7A)",
+            "Link": "https://bit.ly/3NQqf8N"
         }
     ],
     "Regular_Cloned": [
