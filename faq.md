@@ -38,7 +38,7 @@ Can I download songs with this mod?
 --------------------
 No. Music downloads will not work without a premium Spotify subscription.
 
-However, Podcasts **CAN** be downloaded without the need of a premium subscription.
+However, Podcasts **CAN** be downloaded without the need of a Premium Subscription.
 
 Is 'Very High' quality unlocked? Why do other/older mods allow 'Very High'?
 --------------------
@@ -46,7 +46,7 @@ No. '**Very High**' quality requires a premium Spotify subscription. '**High**' 
 
 Other/older mods unlocked the toggle to select '**Very High**' without a 'Premium nag' but did not actually enable '**Very High**' quality. It was a visual change only.
 
-More recent mod versions reflect this properly and will set '**Automatic**' quality if attempting to set '**Very High**' without a Premium subscription.
+More recent mod versions reflect this properly and will set '**Automatic**' quality if attempting to set '**Very High**' without a Premium Subscription.
 
 If you **DO** have a premium subscription and are using the mod, it will give you the '**Very High**' quality if selected.
 
@@ -92,11 +92,11 @@ See here for Spotify region settings: [https://support.spotify.com/article/count
 
 Spotify free accounts can only be outside of their "**home region**" for up to 14 days at a time. If you get the 14-days message, use a VPN to change regions then sign into Spotify and change your location here: [https://www.spotify.com/account/profile/](https://www.spotify.com/account/profile/)
 
-The "**no internet/offline**" error may happen in unsupported Spotify regions (use VPN to change region in Spotify settings on the website). It may also also happen in regions that do NOT have a "**free version**" of Spotify, such as South Korea which is Premium-only and therefore cannot use the mod app unless using it with a Premium subscription (or changing location with VPN).
+The "**No Internet/Offline**" error may happen in unsupported Spotify regions (use VPN to change region in Spotify settings on the website). It may also also happen in regions that do NOT have a "**free version**" of Spotify, such as South Korea which is Premium-Only and therefore cannot use the mod app unless using it with a Premium Subscription (or changing location with VPN).
 
-The "**no internet/offline**" error is also a known Spotify bug which can happen randomly for seemingly no reason. It may or may not be related to your network connection, VPN, Spotify bug when combined with your phone/Android version/ROM/Spotify account etc.
+The "**No Internet/Offline**" error is also a known Spotify bug which can happen randomly for seemingly no reason. It may or may not be related to your network connection, VPN, Spotify bug when combined with your phone/Android version/ROM/Spotify account etc.
 
-All "**no internet**", "**offline**" and "**14-day**" issues are unrelated to the mod and there's nothing that we can do on our end to fix it.
+All "**No Internet**", "**Offline**" and "**14-Days**" issues are unrelated to the mod and there's nothing that we can do on our end to fix it.
 
 Why am I unable to log into the Spotify mod?
 --------------------
@@ -157,7 +157,7 @@ The architecture of your phone can be viewed through the xManager app.
 
 • **Arm64-v8a** builds ONLY work on **Arm64-v8a** devices.
 
-Generally, you should use the builds that match your devices architecture but in some cases the **armeabi-v7a** version may work better for you despite using **arm64-v8a** hardware.
+Generally, you should use the builds that match your devices architecture but in some cases the **Armeabi-v7a** version may work better for you despite using **Arm64-v8a** hardware.
 
 "**Regular**" or "**AMOLED**" is up to you and the only difference is the theme of the app. **AMOLED** = all black theme.
 <p align="center">
