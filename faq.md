@@ -64,7 +64,7 @@ Free accounts will get ads. You can avoid ads on external devices by connecting 
 
 Why aren't lyrics working?
 --------------------
-On Nov 18, 2021 Spotify announced global support for real-time lyrics (https://newsroom.spotify.com/2021-11-18/you-can-now-find-the-lyrics-to-your-favorite-songs-in-spotify-heres-how/).
+On Nov 18, 2021 Spotify announced global support for real-time lyrics: [https://newsroom.spotify.com/2021-11-18/you-can-now-find-the-lyrics-to-your-favorite-songs-in-spotify-heres-how/](https://newsroom.spotify.com/2021-11-18/you-can-now-find-the-lyrics-to-your-favorite-songs-in-spotify-heres-how/).
 
 Why isn't Canvas working?
 --------------------
@@ -149,13 +149,13 @@ If you are in a supported Spotify region you will only need to be connected to t
 If you are not in a supported Spotify region then you may need to remain connected to a VPN at all times.
 See here for more info: [https://support.spotify.com/article/country-region-settings/](https://support.spotify.com/article/country-region-settings/)
 
-What version do I download? armv8 or armv7? Normal or AMOLED?
+What version do I download? Arm64-v8a or Armeabi-v7a? Normal or AMOLED?
 --------------------
 The architecture of your phone can be viewed through the xManager app.
 
-• **armeabi-v7a** builds work on both **armeabi-v7a** and **arm64-v8a** devices.
+• **Armeabi-v7a** builds work on both **Armeabi-v7a** and **Arm64-v8a** devices.
 
-• **arm64-v8a** builds ONLY work on **arm64-v8a** devices.
+• **Arm64-v8a** builds ONLY work on **Arm64-v8a** devices.
 
 Generally, you should use the builds that match your devices architecture but in some cases the **armeabi-v7a** version may work better for you despite using **arm64-v8a** hardware.
 
@@ -164,17 +164,17 @@ Generally, you should use the builds that match your devices architecture but in
 <img src="https://i.ibb.co/9n9tYxx/xManager.jpg">
 </p>
 
-What is the "clone" version of the mod?
+What is the "cloned" version of the mod?
 --------------------
 Some users may have a phone with Spotify pre-installed and they are unable to disable or uninstall the pre-installed version which blocks them from installing the standard mod.
 
-The clone version has a new/different Android package name and allows these users to install the mod.
+The cloned version has a new/different Android package name and allows these users to install the mod.
 
-Android's security does not allow updating an app/apk that shares the same package name to have a different file signature. The Spotify mod versions and the Official Spotify versions have different signatures but both use the same package name (**com.spotify.music**), this is why uninstalling the Official Spotify version first is required when using the mod. This also explains why those with pre-installed Spotify versions are unable to use the mod and why we offer a "**clone**" version of the mod for those users.
+Android's security does not allow updating an app/apk that shares the same package name to have a different file signature. The Spotify mod versions and the Official Spotify versions have different signatures but both use the same package name (**com.spotify.music**), this is why uninstalling the Official Spotify version first is required when using the mod. This also explains why those with pre-installed Spotify versions are unable to use the mod and why we offer a "**cloned**" version of the mod for those users.
 
-The "**clone**" version should be considered a bonus and not something you should expect to be updated any time an update for the standard mod is released. There may or may not be an **AMOLED** version of the "**clone**" released.
+The "**cloned**" version should be considered a bonus and not something you should expect to be updated any time an update for the standard mod is released. There may or may not be an **AMOLED** version of the "**cloned**" released.
 
-There most likely will ONLY be an **armeabi-v7a** "**clone**" version. Both **armeabi-v7a** and **arm64-v8a** devices can use the armeabi-v7a build, do not ask for an **arm64-v8a** version if one is not already provided.
+There most likely will ONLY be an **Armeabi-v7a** "**Cloned**" version. Both **Armeabi-v7a** and **Arm64-v8a** devices can use the Armeabi-v7a build, do not ask for an **Arm64-v8a** version if one is not already provided.
 
 What if I can't uninstall the stock Spotify app that was pre-installed on my device?
 --------------------
@@ -188,32 +188,32 @@ You have the option to download directly from the support group instead.
 When downloads hang at 0%, this is often an issue between our file hosts and the VPN or ISP you are using. Changing networks or VPN may fix the issue.
 In some cases force closing xManager may help.
 
-What does installation error, "app not installed" mean?
+What does installation error, "App not installed" mean?
 --------------------
 **These errors are uninformative but most often happen for the following reasons:**  
 
-• insufficient space  
-• blocked by android security  
-• one of the reasons in the "parsing error" section below  
+• Insufficient space  
+• Blocked by android security  
+• One of the reasons in the "Parsing Error" section below  
 
 For insufficient space errors, free up some space on your device then try again.
 
-For installs blocked by security, depending on your Android version you may have to enable apps to be installed by "**unknown sources**" or enable a specific app (such as xManager) to install apps from unknown sources. See Google for more info.
+For installs blocked by security, depending on your Android version you may have to enable apps to be installed by "**Unknown Sources**" or enable a specific app (such as xManager) to install apps from unknown sources. See Google for more info.
 
 What does installation error, "There was a problem parsing the package" mean?
 --------------------
 **Parsing errors are somewhat generic and can be caused by multiple things including (but not limited to):**  
 
-• incomplete download  
-• corrupted download  
+• Incomplete download  
+• Corrupted download  
 • APK signature mismatch  
-• incompatible hardware  
+• Incompatible hardware  
 
 For incomplete or corrupted APK issues you can try re-downloading the app.
 
 APK signature mismatch can be fixed by uninstalling the current Spotify app first.
 
-Incompatible hardware issue is caused by trying to use **ARM64_v8a** builds on an **ARMEABI_v7a** **(ARM32)** device. **ARM64** devices can use **ARM32** or **ARM64** apps but **ARM32** devices cannot run **ARM64** apps.
+Incompatible hardware issue is caused by trying to use **Arm64-v8a** **(ARM64)** builds on an **Armeabi-v7a** **(ARM32)** device. **ARM64** devices can use **ARM32** or **ARM64** apps but **ARM32** devices cannot run **ARM64** apps.
 
 Where can I download xManager?
 --------------------
