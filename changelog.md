@@ -6,17 +6,14 @@ title: Changelog
 <img width="1000" src="https://i.ibb.co/qn01cnP/x-Manager-Banner-Animated.gif">
 </p>
 
-xManager v3.7-1
+xManager v3.8
 --------------------
-•Fixed NoClassDefFoundError  
-
-**BASED VERSION (v3.7)**  
-•Added Swedish Translation (Thanks rexobo!)  
-•Added Landscape Support (Beta)  
-•Changed Apk Location Path to 'Download' as Default  
-•Downloading File Also Copy The File URL  
-•Firebase Components Removed (Deprecated)  
-•Minor Bugs Fixed and Stability Improvements   
+•Added Finnish Translation (Thanks AfraidOfTheBigBlack and lilko1ra!)  
+•Updated Slovenian Translation (Thanks Myst1cX!)  
+•Fixed File Remover Bug (Wipes download folder) [Will only delete the directory folder]  
+•Fixed Play Store Update Bug  
+•Some Text Changed  
+•Some Bugs Fixed  
 
 Spotify v8.7.36.923
 --------------------
