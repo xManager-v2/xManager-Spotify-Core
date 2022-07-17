@@ -1,7 +1,7 @@
 {
     "Regular_Latest": "8.7.44.968",
     "Amoled_Latest": "8.7.36.923",
-    "RC_Latest": "8.7.36.923",
+    "RC_Latest": "8.7.44.968",
     "ABC_Latest": "8.7.36.923",
     "App_Changelogs": "•Added Finnish Translation (Thanks AfraidOfTheBigBlack and lilko1ra!)\n•Updated Slovenian Translation (Thanks Myst1cX!)\n•Fixed File Remover Bug (Wipes download folder) [Will only delete the directory folder]\n•Fixed Play Store Update Bug\n•Some Text Changed\n•Some Bugs Fixed",
     "Supporters": "Ricardo G.\nAakarshit U.\nAmaricai A.\nAntonio M.\nJuleshwar Babu T.M.\nYash G.\nCamille D.\nAnudeep N.D.\nKrzysztof S.\nAlex C.\nCarlos C.\nPrabandaru P.\nRussel R.\nLucha G.S.\nAleksandrs F.\nGeorgios H.\nLevente T.\nFahim Fahim | Z.\nQuiet\nMikaël V.\nShem W.\nCatalin P.\nPhilipp J.\nKristian H.\nLandon P.\nJay W.\nMichael P.\nAditya C.\nTyler H.\nJose Nayar A.C.\nJohn Carlo R.M.\nAngel G.\nMarijn B.\nMiguel Filipe M.F.",
@@ -148,6 +148,14 @@
         {
             "Title": "8.7.36.923 (ARMEABI-V7A)",
             "Link": "https://bit.ly/3MP8sNQ"
+        },
+        {
+            "Title": "8.7.44.968 (ARM64-V8A)",
+            "Link": "https://bit.ly/3aHClmz"
+        },
+        {
+            "Title": "8.7.44.968 (ARMEABI-V7A)",
+            "Link": "https://bit.ly/3Ppiozw"
         }
     ],
     "Amoled_Cloned": [
