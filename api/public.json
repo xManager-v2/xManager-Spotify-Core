@@ -1,5 +1,5 @@
 {
-    "Regular_Latest": "8.7.36.923",
+    "Regular_Latest": "8.7.44.968",
     "Amoled_Latest": "8.7.36.923",
     "RC_Latest": "8.7.36.923",
     "ABC_Latest": "8.7.36.923",
@@ -56,6 +56,14 @@
         {
             "Title": "8.7.36.923 (ARMEABI-V7A)",
             "Link": "https://bit.ly/3tx3LSl"
+        },
+        {
+            "Title": "8.7.44.968 (ARM64-V8A)",
+            "Link": "https://bit.ly/3RF2sen"
+        },
+        {
+            "Title": "8.7.44.968 (ARMEABI-V7A)",
+            "Link": "https://bit.ly/3IHkhWd"
         }
     ],
     "Amoled": [
@@ -198,7 +206,10 @@
             "Mod_Changelogs": "SPOTIFY 8.7.30.1221 [OLD RELEASE]\n\n•Forced Disabled New Playing Feature (Ugly A/B UI)\n•Some New A/B Features Added\n•Artist Page's Separate Shuffle Readded\n•Some Older A/B Features Went Missing/Removed\n•Some Fixes and Tweakings from the Previous Mod Build"
         },
         {
-            "Mod_Changelogs": "SPOTIFY 8.7.36.923 [NEW RELEASE]\n\n•Added Spotify Enhance Playlists Feature\n•Fixed Slow Album Load Time\n•Some Bugs Fixed and Minor Improvements"
+            "Mod_Changelogs": "SPOTIFY 8.7.36.923 [OLD RELEASE]\n\n•Added Spotify Enhance Playlists Feature\n•Fixed Slow Album Load Time\n•Some Bugs Fixed and Minor Improvements"
+        },
+        {
+            "Mod_Changelogs": "SPOTIFY 8.7.44.968 [NEW RELEASE]\n\n•Some Bugs Fixed and Minor Improvements"
         }
     ]
 }
