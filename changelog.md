@@ -15,8 +15,6 @@ xManager v3.8
 •Some Text Changed  
 •Some Bugs Fixed  
 
-Spotify v8.7.36.923
+Spotify v8.7.44.968
 --------------------
-•Added Spotify Enhance Playlists Feature  
-•Fixed Slow Album Load Time  
 •Some Bugs Fixed and Minor Improvements  
