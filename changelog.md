@@ -6,14 +6,11 @@ title: Changelog
 <img width="1000" src="https://i.ibb.co/qn01cnP/x-Manager-Banner-Animated.gif">
 </p>
 
-xManager v3.8
+xManager v3.9
 --------------------
-•Added Finnish Translation (Thanks AfraidOfTheBigBlack and lilko1ra!)  
-•Updated Slovenian Translation (Thanks Myst1cX!)  
-•Fixed File Remover Bug (Wipes download folder) [Will only delete the directory folder]  
-•Fixed Play Store Update Bug  
-•Some Text Changed  
-•Some Bugs Fixed  
+•Added 'Fixer' Feature [Download Fixer] (Can be use as an alternative method when download get stuck at 0%)  
+•Downgraded Dexer from D8 to DX  
+•Minor Tweaks and Stability Improvements  
 
 Spotify v8.7.44.968
 --------------------
