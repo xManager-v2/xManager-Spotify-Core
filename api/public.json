@@ -3,11 +3,11 @@
     "Amoled_Latest": "8.7.44.968",
     "RC_Latest": "8.7.44.968",
     "ABC_Latest": "8.7.44.968",
-    "App_Changelogs": "•Added Finnish Translation (Thanks AfraidOfTheBigBlack and lilko1ra!)\n•Updated Slovenian Translation (Thanks Myst1cX!)\n•Fixed File Remover Bug (Wipes download folder) [Will only delete the directory folder]\n•Fixed Play Store Update Bug\n•Some Text Changed\n•Some Bugs Fixed",
+    "App_Changelogs": "•Added 'Fixer' Feature [Download Fixer] (Can be use as an alternative method when download get stuck at 0%)\n•Downgraded Dexer from D8 to DX\n•Minor Tweaks and Stability Improvements",
     "Supporters": "Ricardo G.\nAakarshit U.\nAmaricai A.\nAntonio M.\nJuleshwar Babu T.M.\nYash G.\nCamille D.\nAnudeep N.D.\nKrzysztof S.\nAlex C.\nCarlos C.\nPrabandaru P.\nRussel R.\nLucha G.S.\nAleksandrs F.\nGeorgios H.\nLevente T.\nFahim Fahim | Z.\nQuiet\nMikaël V.\nShem W.\nCatalin P.\nPhilipp J.\nKristian H.\nLandon P.\nJay W.\nMichael P.\nAditya C.\nTyler H.\nJose Nayar A.C.\nJohn Carlo R.M.\nAngel G.\nMarijn B.\nMiguel Filipe M.F.",
     "Rewarded_Ads": "ca-app-pub-3319548483346434/5639572396",
     "Update": "https://github.com/xManager-v2/xManager-Spotify/releases/latest/download/xManager.apk",
-    "Server": "3.8",
+    "Server": "3.9",
     "Regular": [
         {
             "Title": "8.6.98.900 (ARM64-V8A)",
